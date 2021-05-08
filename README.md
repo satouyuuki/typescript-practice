@@ -14,3 +14,7 @@ npm run serve
 ```
 npm run build
 ```
+
+### メモ
+型定義は子で宣言した方が優れている？
+
